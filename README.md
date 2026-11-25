@@ -1074,6 +1074,7 @@ API | Description | Auth | HTTPS | CORS |
 | [OCR.Space](https://ocr.space/ocrapi) | OCR text extraction from images and PDFs with a free tier | `apiKey` | Yes | Unknown |
 | [Optiic](https://optiic.dev) | OCR that extracts text from images and PDFs, with optional translation of the result | `apiKey` | Yes | Yes |
 | [PagedPDF](https://pagedpdf.com/docs/) | Convert HTML to PDF in current Chrome, with repeating table headers and page numbers | `apiKey` | Yes | No | |
+| [Pagespool](https://pagespool.com/docs) | Hosted Docling, MarkItDown, WeasyPrint, Gotenberg, OCRmyPDF, veraPDF and EPUBCheck; free tier | `apiKey` | Yes | Unknown |
 | [PandaDoc](https://developers.pandadoc.com) | DocGen and eSignatures API | `apiKey` | Yes | No |
 | [PDFDispatch](https://docs.pdfdispatch.com/) | HTML, URLs, Markdown and Office files to PDF, plus merge, split and PDF/A. EU-hosted, free tier | `apiKey` | Yes | No |
 | [PDFFleet](https://pdffleet.com) | HTML and URL to PDF API with templates and a free tier | `apiKey` | Yes | Yes |
